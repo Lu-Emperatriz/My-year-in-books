@@ -17,7 +17,7 @@ Visualization
 You can view the [**dashboard in Tableau HERE**](https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1)
 
 This is an overview:
-![fig1](MEDIA/COMPLETE.PNG)
+![fig1](MEDIA/COMPLETE.png)
 
 
 Contact
