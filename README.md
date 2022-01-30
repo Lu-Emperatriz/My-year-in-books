@@ -7,10 +7,11 @@ My year in books - 2021
 Description
 --------
 This is a personal project that I do annually to track my readings.
+The data used was extracted from [**my Goodreads**](https://www.goodreads.com/user/show/107295298-lucero) account with the exception of the number of words per book, which was compiled from  [**Word Counters**](https://wordcounters.com/) website.
 
-Data
+Objective
 --------
-Extracted from [**my Goodreads**](https://www.goodreads.com/user/show/107295298-lucero) account with the exception of the number of words per book, which was compiled from  [**Word Counters**](https://wordcounters.com/) website.
+
 
 Visualization
 --------
