@@ -15,16 +15,10 @@ Objective
 
 Visualization
 --------
-You can view the [**dashboard in Tableau HERE**](https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1)
-a[asd](https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1&:showVizHome=no)
-
-<iframe src="https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1"></iframe>
-
-<script src="https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1"></script>
-<div id="tableauViz"></div>
+[**View dashboard in Tableau HERE**](https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1)
 
 This is an overview:
-![fig1](MEDIA/COMPLETE.png)
+![fig1](MEDIA/dashboard.png)
 
 
 Contact
