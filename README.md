@@ -17,6 +17,8 @@ Visualization
 --------
 You can view the [**dashboard in Tableau HERE**](https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1)
 
+<iframe src="https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1"></iframe>
+
 This is an overview:
 ![fig1](MEDIA/COMPLETE.png)
 
