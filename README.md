@@ -21,9 +21,11 @@ This is an overview:
 ![fig1](MEDIA/dashboard.png)
 
 
-Contact
+Contact me
 --------
 Lucero Emperatriz Sovero
+
 **My website:** [website](https://github.com/Lu-Emperatriz/LuPortfolio.github.io.git).
-View more projects [HERE](https://github.com/Lu-Emperatriz?tab=repositories).  
+
+[**View more projects**](https://github.com/Lu-Emperatriz?tab=repositories).  
 
