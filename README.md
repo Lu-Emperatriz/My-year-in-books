@@ -19,6 +19,9 @@ You can view the [**dashboard in Tableau HERE**](https://public.tableau.com/app/
 
 <iframe src="https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1"></iframe>
 
+<script src="https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1"></script>
+<div id="tableauViz"></div>
+
 This is an overview:
 ![fig1](MEDIA/COMPLETE.png)
 
