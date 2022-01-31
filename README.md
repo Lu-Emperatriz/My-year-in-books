@@ -23,7 +23,7 @@ This is an overview:
 
 Contact
 --------
-Lucero Emperatriz Sovero [website](https://github.com/Lu-Emperatriz/LuPortfolio.github.io.git).
-
+Lucero Emperatriz Sovero
+**My website:** [website](https://github.com/Lu-Emperatriz/LuPortfolio.github.io.git).
 View more projects [HERE](https://github.com/Lu-Emperatriz?tab=repositories).  
 
