@@ -23,6 +23,6 @@ This is an overview:
 
 Lucero Emperatriz Sovero
 
-Visit my website [HERE](https://github.com/Lu-Emperatriz/LuPortfolio.github.io.git).
+Visit my website [HERE](https://lu-emperatriz.github.io/LuPortfolio.github.io/).
 
 [**View more projects**](https://github.com/Lu-Emperatriz?tab=repositories).  
